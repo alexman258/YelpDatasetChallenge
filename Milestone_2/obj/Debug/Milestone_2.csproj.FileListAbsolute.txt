@@ -1,0 +1,142 @@
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\bin\Debug\Milestone_2.exe.config
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\bin\Debug\Milestone_2.exe
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\bin\Debug\Milestone_2.pdb
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.csprojResolveAssemblyReference.cache
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\obj\Debug\MainWindow.g.cs
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\obj\Debug\App.g.cs
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.cache
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.lref
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\obj\Debug\MainWindow.baml
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.g.resources
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.Properties.Resources.resources
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.csproj.GenerateResource.Cache
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.csproj.CoreCompileInputs.cache
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.exe
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.pdb
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\bin\Debug\Npgsql.dll
+C:\CPTS 451\Milestone 2\Milestone_2\Milestone_2\bin\Debug\Npgsql.xml
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\bin\Debug\Milestone_2.exe.config
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\bin\Debug\Milestone_2.exe
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\bin\Debug\Milestone_2.pdb
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\bin\Debug\Npgsql.dll
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\bin\Debug\Npgsql.xml
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.csprojResolveAssemblyReference.cache
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\MainWindow.g.cs
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\App.g.cs
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.cache
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.lref
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\MainWindow.baml
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.g.resources
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.Properties.Resources.resources
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.csproj.GenerateResource.Cache
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.csproj.CoreCompileInputs.cache
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.exe
+F:\Mandzyuk_Trach_Milestone2\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.pdb
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\bin\Debug\Milestone_2.exe.config
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\bin\Debug\Milestone_2.exe
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\bin\Debug\Milestone_2.pdb
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\bin\Debug\Npgsql.dll
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\bin\Debug\Npgsql.xml
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.csprojResolveAssemblyReference.cache
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\MainWindow.g.cs
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\App.g.cs
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.cache
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.lref
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\MainWindow.baml
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.g.resources
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.Properties.Resources.resources
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.csproj.GenerateResource.Cache
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.csproj.CoreCompileInputs.cache
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.exe
+C:\Users\Vit\Desktop\Cpts 322\Mandzyuk_Trach_Milestone2\Milestone_2\Milestone_2\obj\Debug\Milestone_2.pdb
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\bin\Debug\Milestone_2.exe.config
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\bin\Debug\Milestone_2.exe
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\bin\Debug\Milestone_2.pdb
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\bin\Debug\Npgsql.dll
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\bin\Debug\Npgsql.xml
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\obj\Debug\Milestone_2.csprojResolveAssemblyReference.cache
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\obj\Debug\MainWindow.g.cs
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\obj\Debug\App.g.cs
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.cache
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.lref
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\obj\Debug\MainWindow.baml
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\obj\Debug\Milestone_2.g.resources
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\obj\Debug\Milestone_2.Properties.Resources.resources
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\obj\Debug\Milestone_2.csproj.GenerateResource.Cache
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\obj\Debug\Milestone_2.csproj.CoreCompileInputs.cache
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\obj\Debug\Milestone_2.exe
+C:\Users\Vit\Desktop\Milestone_4\Milestone_2\obj\Debug\Milestone_2.pdb
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\bin\Debug\Milestone_2.exe.config
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\bin\Debug\Milestone_2.exe
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\bin\Debug\Milestone_2.pdb
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\bin\Debug\Npgsql.dll
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\bin\Debug\Npgsql.xml
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\obj\Debug\Milestone_2.csprojResolveAssemblyReference.cache
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\obj\Debug\MainWindow.g.cs
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\obj\Debug\App.g.cs
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.cache
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.lref
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\obj\Debug\MainWindow.baml
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\obj\Debug\Milestone_2.g.resources
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\obj\Debug\Milestone_2.Properties.Resources.resources
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\obj\Debug\Milestone_2.csproj.GenerateResource.Cache
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\obj\Debug\Milestone_2.csproj.CoreCompileInputs.cache
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\obj\Debug\Milestone_2.exe
+C:\Users\Vit\Desktop\Milestone_5\Milestone_2\obj\Debug\Milestone_2.pdb
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\bin\Debug\Milestone_2.exe.config
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\bin\Debug\Milestone_2.exe
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\bin\Debug\Milestone_2.pdb
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\bin\Debug\Npgsql.dll
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\bin\Debug\Npgsql.xml
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\obj\Debug\Milestone_2.csprojResolveAssemblyReference.cache
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\obj\Debug\MainWindow.g.cs
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\obj\Debug\App.g.cs
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.cache
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.lref
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\obj\Debug\MainWindow.baml
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\obj\Debug\Milestone_2.g.resources
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\obj\Debug\Milestone_2.Properties.Resources.resources
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\obj\Debug\Milestone_2.csproj.GenerateResource.Cache
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\obj\Debug\Milestone_2.csproj.CoreCompileInputs.cache
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\obj\Debug\Milestone_2.exe
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Milestone_5\Milestone_2\obj\Debug\Milestone_2.pdb
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\obj\Debug\Milestone_2.csprojResolveAssemblyReference.cache
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\obj\Debug\MainWindow.g.cs
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\obj\Debug\App.g.cs
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.cache
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.lref
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\obj\Debug\Milestone_2.exe
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\obj\Debug\Milestone_2.pdb
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\bin\Debug\Milestone_2.exe.config
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\bin\Debug\Milestone_2.exe
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\bin\Debug\Milestone_2.pdb
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\bin\Debug\Npgsql.dll
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\bin\Debug\Npgsql.xml
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\obj\Debug\MainWindow.baml
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\obj\Debug\Milestone_2.g.resources
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\obj\Debug\Milestone_2.Properties.Resources.resources
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\obj\Debug\Milestone_2.csproj.GenerateResource.Cache
+C:\Users\Vit\Desktop\Cpts 322\RepTeam4\Final_Project\Milestone_2\obj\Debug\Milestone_2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\Milestone_2.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\App.g.cs
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.cache
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\Milestone_2_MarkupCompile.lref
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\Milestone_2.exe
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\Milestone_2.pdb
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\bin\Debug\Milestone_2.exe.config
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\bin\Debug\Milestone_2.exe
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\bin\Debug\Milestone_2.pdb
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\bin\Debug\Npgsql.dll
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\bin\Debug\Npgsql.xml
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\MainWindow.baml
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\Milestone_2.g.resources
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\Milestone_2.Properties.Resources.resources
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\Milestone_2.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\Milestone_2.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\Window1.g.cs
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\Window1.baml
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\Window2.g.cs
+C:\Users\Alex\Documents\YelpApp\Final_Project\Milestone_2\obj\Debug\Window2.baml
